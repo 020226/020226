@@ -10,8 +10,8 @@
         <!-- 1. 벨로그 -->
         <a href="https://velog.io/@020226/posts" target="_blank">
             <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white"></a>
-        <!-- 2. 노션 (★ 여기에 실제 본인의 노션 페이지 주소를 붙여넣으세요!) -->
-        <a href="https://www.notion.so/본인의노션페이지주소" target="_blank">
+        <!-- 2. 노션 -->
+        <a href="https://hyper-star-6be.notion.site/AI-333a1aae6962807e9236ccd52d35eaf3?pvs=74" target="_blank">
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
         <!-- 3. 네이버 메일 -->
         <a href="mailto:mmin08@naver.com">
